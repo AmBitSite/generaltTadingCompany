@@ -1,1 +1,1 @@
-# generaltTadingCompany
+# https://ambitsite.github.io/generaltTadingCompany/
